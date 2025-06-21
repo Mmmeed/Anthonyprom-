@@ -17,7 +17,7 @@ nav {
  margin-top: auto;
  display: flex;
  margin-left: auto;
- margin-left: 15px;
+
 
 }
 
@@ -33,6 +33,7 @@ nav a {
     padding-bottom: 5px;
     border-radius: 5px;
     margin-top: 15px;
+    margin-left: 15px;
   
 }
 
