@@ -38,10 +38,10 @@ nav a {
 .loat{
     position: absolute;
     z-index: 2;
-    width: 400px;
-    height: 400px;
-    margin-top: 150px;
-    margin-left: 45%;
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 10rem;
 }
 
 .hero {
