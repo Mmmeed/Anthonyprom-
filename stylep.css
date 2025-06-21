@@ -174,3 +174,15 @@ footer {
 h1{
     color: #ffffff;
 }
+@media (max-width: 768px) {
+  .loat {
+    width: 62%;
+    height: auto; 
+    padding: 10px;
+  }
+
+  .nav a {
+    font-size: 14px; 
+    padding: 8px 10px; 
+  }
+}
